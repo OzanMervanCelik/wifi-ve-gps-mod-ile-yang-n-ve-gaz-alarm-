@@ -2,3 +2,8 @@
 projemin son hali
 Wifi gps gaz ısı sensörleri ile her hangi bir yangın esnasında sisteme girilen telefon no ya lokasyon gidip ve wfi modülü ile bir vew sitesine anlık olarak bilgi göndermekteyim 
 basit bir mobil uygulama ile de anlık olarak veri okumaktayım.
+
+
+.hitattributes
+# Auto detect text files and perform LF normalization
+* text=auto
